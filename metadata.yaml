@@ -1,0 +1,5 @@
+homepage: "https://conferwith.io"
+documentation: "https://github.com/conferwith/conferwith-google-template/blob/main/README.md"
+versions:
+  - sha: 2242f682bba2ef64d9338ad8a31815a37b0b2936
+    changeNotes: Initial release.
