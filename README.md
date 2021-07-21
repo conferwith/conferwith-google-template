@@ -1,5 +1,3 @@
-# conferwith-google-template
-
 ## Create a Tag using the Conferwith template
 
 1. Click the "Add a New Tag" button.
