@@ -15,7 +15,7 @@ ___INFO___
   "securityGroups": [],
   "displayName": "ConferWith Google Tracking",
   "categories": [
-    "ATTRIBUTION"
+    "ANALYTICS", "MARKETING"
   ],
   "brand": {
     "id": "brand_dummy",
